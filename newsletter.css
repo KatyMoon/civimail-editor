@@ -1,0 +1,6 @@
+body { font-family: arial; width: 100% !important; -webkit-text-size-adjust: none; margin: 0; padding: 0; }
+img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+table { border-collapse:collapse; }
+td { border-collapse: collapse; overflow: hidden; }
+#bgTable { height: 100% !important; margin: 0; padding: 0; width:100% !important; }
+ul { list-style: none outside none; margin: 0; padding: 0; }

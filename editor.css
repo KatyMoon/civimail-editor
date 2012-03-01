@@ -1,0 +1,5 @@
+#header, #footer { background-color: orange; }
+#main { background-color: yellow; }
+
+.item { background-color: green; position: relative; }
+.add_remove { position: absolute; top: 8px; right: 10px; }

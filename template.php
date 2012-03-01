@@ -4,7 +4,8 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<title>CiviMail demo</title>
-	<link href="style.css" rel="stylesheet" type="text/css" />
+	<link href="editor.css" rel="stylesheet" type="text/css" />
+	<link href="newsletter.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="jquery.jeditable.mini.js.rb" charset="utf-8"></script>
@@ -12,6 +13,7 @@
 </head>
 
 <body>
+	
 <table id='header'>
 <tr><td>
 <h1 class="editable">Newsletter title</h1>

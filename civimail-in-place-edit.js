@@ -8,7 +8,7 @@ $(function() {
 	      cancel : 'cancel',
 	 });
 	
-	$( "#items" ).sortable();
+	$( ".items" ).sortable();
 
 	$(".item").hover(
 	  function () {
