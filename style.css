@@ -1,0 +1,14 @@
+body{
+	font-family: arial;
+}
+table, td{
+	border: 1px solid grey;
+}
+
+table {
+	width: 500px;
+}
+
+#header {background-color: pink }
+
+#footer {background-color: pink }
